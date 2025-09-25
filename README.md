@@ -2,10 +2,13 @@
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
-# Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
+# Aim: 
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
-
+* ChatGPT
+* Gemini
+  
 # Explanation: 
 Define the Two Prompt Types:
 
@@ -32,7 +35,8 @@ A table comparing ChatGPT's responses to naïve and basic prompts across all sce
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
-
 # OUTPUT
+[EXP 5.pdf](https://github.com/user-attachments/files/22528610/EXP.5.pdf)
 
-# RESULT: The prompt for the above said problem executed successfully
+# RESULT: 
+The prompt for the above said problem executed successfully
